@@ -1,0 +1,12 @@
+build/*
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*~.nib
+CodeSignIdentity.xcconfig
+*.swf
+*.swp
+*.swo
+.DS_Store
