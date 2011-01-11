@@ -28,5 +28,5 @@ Other ways to do this? Use a CAEAGLLayer, load image as texture, track input, st
 Make sure to keep track of memory; I did not pay particular attention to memory management in writing this.
 
 ### Credits for the images go to:
- * The great wave background: http://www.wallpaper-download-free.com/image/background_blackberry/9 
- * Scratch texture: http://free3dstextures.com/texture/Free_Texture_N&amp;Acirc;&amp;ordm;8_/2541305169
+ * ["The Great Wave" background](http://www.wallpaper-download-free.com/image/background_blackberry/9)
+ * [Scratch texture](http://free3dstextures.com/texture/Free_Texture_N&amp;Acirc;&amp;ordm;8_/2541305169)
