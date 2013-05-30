@@ -30,3 +30,6 @@ Make sure to keep track of memory; I did not pay particular attention to memory 
 ### Credits for the images go to:
  * ["The Great Wave" background](http://www.wallpaper-download-free.com/image/background_blackberry/9)
  * [Scratch texture](http://free3dstextures.com/texture/Free_Texture_N&amp;Acirc;&amp;ordm;8_/2541305169)
+
+### License
+This software is distributed under a revised 3-Clause BSD, see [LICENSE](https://github.com/oyiptong/CGScratch/blob/master/LICENSE)
